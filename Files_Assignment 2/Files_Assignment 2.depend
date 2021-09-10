@@ -1,0 +1,74 @@
+# depslib dependency file v1.0
+1523921425 source:g:\codeblocks files\files_assignment 2\main.cpp
+	<iostream>
+	<fstream>
+	<array>
+	<string.h>
+	<string>
+	<stdlib.h>
+	<sstream>
+	<vector>
+	<algorithm>
+	<iomanip>
+
+1523990337 source:c:\users\youssef\desktop\files_assignment 2\main.cpp
+	<iostream>
+	<fstream>
+	<array>
+	<string.h>
+	<string>
+	<stdlib.h>
+	<sstream>
+	<vector>
+	<algorithm>
+	<iomanip>
+	<windows.h>
+
+1523557172 source:c:\users\youssef\documents\university files\year 2\term 2\file organization\assign 2\files_assignment 2\main.cpp
+	<iostream>
+	<fstream>
+	<array>
+	<string.h>
+	<string>
+	<stdlib.h>
+	<sstream>
+	<vector>
+	<algorithm>
+
+1523655848 source:g:\codeblocks files\fe2y el gamed awy\files_assignment 2\main.cpp
+	<iostream>
+	<fstream>
+	<array>
+	<string.h>
+	<string>
+	<stdlib.h>
+	<sstream>
+	<vector>
+	<algorithm>
+
+1525309716 source:c:\users\yousef badr\desktop\ÇáßáÈ áæáæ åæ åæ\files_assignment 2\main.cpp
+	<iostream>
+	<fstream>
+	<array>
+	<string.h>
+	<string>
+	<stdlib.h>
+	<sstream>
+	<vector>
+	<algorithm>
+	<iomanip>
+	<windows.h>
+
+1525311223 source:c:\users\yousef badr\desktop\world's best assignment\files_assignment 2\main.cpp
+	<iostream>
+	<fstream>
+	<array>
+	<string.h>
+	<string>
+	<stdlib.h>
+	<sstream>
+	<vector>
+	<algorithm>
+	<iomanip>
+	<windows.h>
+
